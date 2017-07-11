@@ -3,6 +3,7 @@ body {font-family:'Azo Sans', 'Helvetica', 'Arial', sans-serif; line-height:1.7;
 .container {max-width:640px; margin:0px auto; padding:60px 30px;}
 .logo {display:block; height:120px; margin:0px auto;}
 .content {margin:60px 0px;}
+.content.center {text-align:center;}
 .emphasis {font-size:20px; font-weight:300;}
 a {text-decoration:none; border-bottom:1px solid #ddd; color:inherit;}
 a:hover {border-bottom:1px solid #333;}
